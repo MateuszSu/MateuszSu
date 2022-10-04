@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MateuszSu/MateuszSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👨‍🎓 Thrid Year Computer Engineering Student
 - 🌱 I’m currently learning Spring Boot
 - 🧠 Interested in Computer Hardware
