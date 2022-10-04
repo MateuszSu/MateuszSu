@@ -1,6 +1,6 @@
 <h1 align = center> Hi, I'm Mateusz Suryś 👋
 
-<h2 align = center> 🎓Computer Engineering Student
+<h2 align = center> 🎓Computer Engineering Student </h2>
 <br>
 
 - 👨‍🎓 Thrid Year Computer Engineering Student
